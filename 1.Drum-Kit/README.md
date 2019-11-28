@@ -1,5 +1,9 @@
 # JavaScript30 Drum Kit
 
+### Live Link:
+
+**[Drum Kit](https://rawcdn.githack.com/Redvanisation/JavaScript-30/beeffc9bec58efaa344866a79dcf8d712bbba6f6/1.Drum-Kit/index.html)**
+
 What I learned on this mini-project.
 
 ### querySelector and HTML attributes
