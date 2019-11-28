@@ -67,28 +67,3 @@ html {
   span.population {
     font-size: 15px;
   }
-  
-  .hl {
-    background: #ffc600;
-  }
-  
-
-  .test {
-    /* transform: perspective(100px) rotateX(-1deg) translateY(3px); */
-  }
-
-  .test .child:nth-child(even) {
-    background-color: black;
-        /* transform: perspective(100px) rotateX(-1deg) translateY(3px); */
-        transform: perspective(100px) rotateX(-3deg) translateY(3px);
-
-  }
-  
-  .child {
-    background-color: orangered;
-    width: 60%;
-    height: 150px;
-    margin: 0 auto;
-    transform: rotateX(-30deg);
-
-  }
