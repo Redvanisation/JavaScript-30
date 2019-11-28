@@ -1,7 +1,7 @@
 # JavaScript30-Canvas
 
 ## Live link
-**[Canvas](https://rawcdn.githack.com/Redvanisation/JavaScript-30/5fb6aee69fb54a9cb57411dc60538cdaf80e8c7f/8.Canvas/index.html)**
+**[Canvas](https://rawcdn.githack.com/Redvanisation/JavaScript-30/c75584023ce465e9fc4e38a4b6255900b73d1be9/8.Canvas/index.html)**
 
 What I learned in this mini-project.
 
