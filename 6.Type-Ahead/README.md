@@ -1,5 +1,8 @@
 # JavaScript30 Type Ahead Feature
 
+## Live link
+**[Type Ahead Feature](https://rawcdn.githack.com/Redvanisation/JavaScript-30/616ccaf26c26628c6732be4acc44ae208390d3a2/6.Type-Ahead/index.html)**
+
 What I learned in this mini-project.
 
 ### The Fetch Function
