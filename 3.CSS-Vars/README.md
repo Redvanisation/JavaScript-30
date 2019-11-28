@@ -1,5 +1,8 @@
 # JavaScript30 Update CSS Variables with JS
 
+## Live link
+**[Update CSS Variables with JS](https://rawcdn.githack.com/Redvanisation/JavaScript-30/61b4e97d622cab895f701433596f26241722ad6f/3.CSS-Vars/index.html)**
+
 What I learned in this mini-project.
 
 ### Dataset attribute 
