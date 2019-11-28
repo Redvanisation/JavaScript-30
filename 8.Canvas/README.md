@@ -1,5 +1,8 @@
 # JavaScript30-Canvas
 
+## Live link
+**[Canvas](https://rawcdn.githack.com/Redvanisation/JavaScript-30/5fb6aee69fb54a9cb57411dc60538cdaf80e8c7f/8.Canvas/index.html)**
+
 What I learned in this mini-project.
 
 ### Setting up and initializing a canvas
