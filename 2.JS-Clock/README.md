@@ -1,5 +1,8 @@
 # JavaScript30 JS/CSS Clock
 
+## Live link:
+**[JS/CSS Clock](https://rawcdn.githack.com/Redvanisation/JavaScript-30/909d5d8bacd7d1b85820af1abe7a0794db11dc8b/2.JS-Clock/index.html)**
+
 What I learned in this mini-project.
 
 ### The Date object 
