@@ -1,4 +1,5 @@
 const canvas = document.querySelector('#draw');
+const title = document.querySelector('h1');
 
 const ctx = canvas.getContext('2d');
 
@@ -32,6 +33,10 @@ function draw(e) {
     direction ? ctx.lineWidth++ : ctx.lineWidth--;
 }
 
+function hideTitle() {
+    title.classList.add('class', 'hidden');
+}
+
 canvas.addEventListener('mousedown', (e) => {
     isDrawing = true;
     [lastX, lastY] = [e.offsetX, e.offsetY];
@@ -41,3 +46,5 @@ canvas.addEventListener('mousedown', (e) => {
 canvas.addEventListener('mousemove', draw);
 canvas.addEventListener('mouseup', () => isDrawing = false);
 canvas.addEventListener('mouseout', () => isDrawing = false);
+
+document.body.addEventListener('click', hideTitle);
