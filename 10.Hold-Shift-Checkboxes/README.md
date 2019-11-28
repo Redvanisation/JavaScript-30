@@ -1,5 +1,8 @@
 # JavaScript30 Shift Checked Checkboxes
 
+### Live link:
+**[Shift Checked Checkboxes](https://rawcdn.githack.com/Redvanisation/JavaScript-30/525b3d8b86e651b27d5e8646042cc49da578303c/10.Hold-Shift-Checkboxes/index.html)**
+
 What I learned in this mini-project.
 
 ### Using the event properties
