@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Key Detection</title>
+  <script type="text/javascript" src="https://www.cornify.com/js/cornify.js"></script>
+</head>
+<body>
+  Open up the Devtools console and try your luck!
+<script>
+  const secretCode = 'redvanisation';
+  const typed = [];
+  const win = 'The dark side welcomes you young Skywalker!!!!';
+  window.addEventListener('keyup', (e) => {
+    typed.push(e.key)
+    typed.splice(- secretCode.length - 1, typed.length - secretCode.length);
+    console.log(typed);
+
+    if (typed.join('').includes(secretCode)) {
+      console.log(`%c ${win.toLocaleUpperCase()}`, 'font-size: 40px');
+      cornify_add();
+    }
+  });
+</script>
+</body>
+</html>
