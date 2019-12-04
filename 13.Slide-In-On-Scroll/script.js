@@ -13,6 +13,8 @@ function debounce(func, wait = 20, immediate = true) {
   };
 }
 
+/////////////////////////////
+
 const sliderImages = document.querySelectorAll('.slide-in');
 
 const checkSlide = () => {
@@ -37,4 +39,3 @@ const checkSlide = () => {
 }
 
 window.addEventListener('scroll', debounce(checkSlide));
-// window.addEventListener('scroll', checkSlide);
