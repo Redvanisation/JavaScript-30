@@ -1,7 +1,7 @@
 # JavaScript30 Slide In On Scroll Effect
 
 ## Live link
-**[Slide in on scroll]()**
+**[Slide in on scroll](https://rawcdn.githack.com/Redvanisation/JavaScript-30/05cb56c3ee32f0789e8c8c06447cb19446813785/13.Slide-In-On-Scroll/index.html)**
 
 What I learned in this mini-project.
 
