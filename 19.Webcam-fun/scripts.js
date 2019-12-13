@@ -29,9 +29,9 @@ const paintToCanvas = () => {
         let pixels = ctx.getImageData(0, 0, width, height);
 
         // Apply custom filters
-        // ctx.globalAlpha = 0.1;
+        ctx.globalAlpha = 0.1;
         // pixels = redEffect(pixels);
-        // pixels = rgbSplit(pixels);
+        pixels = rgbSplit(pixels);
         pixels = greenScreen(pixels);
 
         // Put them back
