@@ -16,7 +16,7 @@ function populateVoices() {
 
 function setVoice() {
   msg.voice = voices.find(voice => voice.name === this.value);
-  toggle();
+  // toggle();
 }
 
 const toggle = (startOver = true) => {
